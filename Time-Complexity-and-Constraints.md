@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Time Complexity Analysis
 
 A crucial aspect of writing efficient code, especially in competitive programming, is understanding its time complexity. This determines how the runtime of your algorithm scales with the size of the input.
@@ -127,5 +126,3 @@ while (T--) {
 }
 ```
 ---
-
-```
